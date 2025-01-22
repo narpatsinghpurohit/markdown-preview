@@ -1,3 +1,3 @@
 # markdown-preview
 
-10 min utility generated made using ai
+nice utility built using ai for previewing markdown
